@@ -9,7 +9,7 @@ environment:
   flutter: ">=1.17.0"
 
 dependencies:
-  rive: ^0.11.1
+  rive: ^0.13.20
   flutter:
     sdk: flutter
 
